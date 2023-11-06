@@ -1,18 +1,38 @@
-![banner](content/banner.png)
+<!--HEADER-->
+![Banner](assets/banner.png)
 
-### My name is Danny, and I'm Software Engineer!
+A middle Software Engineer, is at your service 🎩👋<br>
+See pinned contacts in my [GitHub Profile]
 
-I don't have enough experience to be a lump yet, but I'm studying very hard to get to know the world better and change
-it for the better!
+---
+<!--ABOUT-->
 
-- 👨‍💻 2 years of backend-development
-- 🔭 Currently working on ~~~ your company could be here ~~~
-- 💬 Ask me about CS
-- 📫 How to reach me: see pinned profile contacts
-- ⚡ Fun fact: my first program was not "hello world!"
+<!--
+danyssimome/danyssimome is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
-[![Langs per](https://github-readme-stats.vercel.app/api/top-langs/?username=danyssimome&hide=html&layout=compact&)](https://github.com/danyssimome)
+Here are some ideas to get you started:
 
-<p> 
-    <img src="https://komarev.com/ghpvc/?username=danyssimo&label=Profile%20views&color=0e75b6&style=flat" alt="danyssimo"/>
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡️ Fun fact: ...
+-->
+
+<!-- --- -->
+<!--SOME METRICS-->
+
+<a href="https://github.com/danyssimome">
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danyssimome&theme=transparent" alt="Daniil's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/danyssimome">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danyssimome&theme=transparent" alt="Top Languages by Repo"/>
+</a>
+
+---
+
+[GitHub Profile]: https://github.com/danyssimome
