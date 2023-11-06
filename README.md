@@ -1,15 +1,12 @@
 <!--HEADER-->
 ![Banner](assets/banner.png)
 
-A middle Software Engineer, is at your service 🎩👋<br>
-See pinned contacts in my [GitHub Profile]
+A Software Engineer, is at your service 🎩👋<br>
+See pinned contacts in my [GitHub Profile][1]
 
----
 <!--ABOUT-->
 
 <!--
-danyssimome/danyssimome is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -22,17 +19,22 @@ Here are some ideas to get you started:
 - ⚡️ Fun fact: ...
 -->
 
-<!-- --- -->
+---
+
 <!--SOME METRICS-->
 
+<!DOCTYPE html>
+<html lang="EN">
+<body>
 <a href="https://github.com/danyssimome">
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danyssimome&theme=transparent" alt="Daniil's GitHub Stats"/>
+  <img style="text-align: left;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danyssimome&theme=transparent" alt="Daniil's GitHub Stats"/>
 </a>
-
 <a href="https://github.com/danyssimome">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danyssimome&theme=transparent" alt="Top Languages by Repo"/>
+  <img style="text-align: center;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danyssimome&theme=transparent" alt="Top Languages by Repo"/>
 </a>
+</body>
+</html>
 
 ---
 
-[GitHub Profile]: https://github.com/danyssimome
+[1]: <https://github.com/danyssimome>
